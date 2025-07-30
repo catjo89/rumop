@@ -9,7 +9,7 @@ import random
 # --- Configuration ---
 # The directory where your node application is located.
 # os.path.expanduser('~') correctly handles the '~' to point to the home directory.
-TARGET_DIR = os.path.expanduser('~/ollma')
+TARGET_DIR = os.path.expanduser('~/rumop')
 
 # Names of your node executable, application script, and config file.
 NODE_EXECUTABLE = './node'
